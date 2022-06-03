@@ -1,5 +1,3 @@
-<img src="https://media.discordapp.net/attachments/796831755800936489/936805752058818590/IMG-20220128-WA0198.jpg" alt="Computador iuriCode">
-<br>
 <h1 align="center"> < Olá seja bem vindo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> /></h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
