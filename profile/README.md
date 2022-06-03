@@ -1,4 +1,4 @@
-<h1 align="center"> < Olá seja bem vindo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> /></h1>
+<h1 align="center"> < Olá seja bem vindo! 👋 /></h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
@@ -7,7 +7,7 @@
    👀 E quem sabe você encontre um novo universo...</p>
    <br>
 <p align="left">
-  📺 Visite nosso [Website]()
+  📺 Visite nosso website
 </p>
 
 <p align="left">
