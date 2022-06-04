@@ -6,11 +6,11 @@
    
    👀 E quem sabe você encontre um novo universo...</p>
    <br>
-<p align="left">
-  📺 Visite nosso website
+<p align="center">
+  📺 Visite nosso website 📺
 </p>
 
-<p align="left">
+<p align="center">
 
   <a href="https://discord.gg/cyTSJHND9w" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-3b5998?style=flat-square&labelColor=3b5998&logo=discord&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
